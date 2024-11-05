@@ -1,0 +1,232 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About me",
+    "skills": "Skills",
+    "work": "Work",
+    "button": "Contact Me"
+  },
+  "intro": {
+    "greeting": "Hi, I'm",
+    "name": "Angelo Luca Fiore",
+    "description": {
+      "firstPart": "I am a dedicated and ambitious",
+      "span": "Full Stack Developer.",
+      "secondPart": "My goal is to create impressive and innovative web applications."
+    },
+    "button": "Contact Me",
+    "downloadButton": "Download CV",
+    "animatedItem": {
+      "firstItem": "Modern",
+      "secondItem": "Responsive",
+      "thirdItem": "Interactive"
+    }
+  },
+  "aboutPart": {
+    "navItem": "About Me",
+    "name": "Angelo Luca Fiore",
+    "slogan": "Turn dreams into living masterpieces.",
+    "description": "My name is Angelo, and I am a Software Engineer with 15 years experience in designing, developing, and maintaining sophisticated web and desktop application. I will help you create your dream website using the latest technologies. I look forward to the opportunity to work together to bring your ideas to life."
+  },
+  "skillsPart": {
+    "navItem": "Skills",
+    "title": {
+      "firstPart": "The skills, tools and technologies",
+      "secondPart": "I am really good at:"
+    }
+  },
+  "projectsPart": {
+    "navItem": "Work",
+    "title": "Things I've built so far",
+    "projects": [
+      {
+        "id": 1,
+        "name": "Calyptus",
+        "description": "This is a multipage online store website developed using technologies such as:",
+        "github_link": "https://github.com/nestor1760/Calyptus-page",
+        "image_path": "/media/projects_media/calyptus.png",
+        "preview_link": "https://portfolio-project-three-gray.vercel.app/",
+        "git_label": "View code",
+        "preview_label": "Live preview",
+        "tech": [
+          "Javascript",
+          "React",
+          "css modules",
+          "Redux"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Horyzonty",
+        "description": "This is a landing page for a travel agency created using technologies such as:",
+        "github_link": "https://github.com/nestor1760/Horyzonty-page",
+        "image_path": "/media/projects_media/horyzonty.png",
+        "preview_link": "https://horyzonty-page.vercel.app/",
+        "git_label": "View code",
+        "preview_label": "Live preview",
+        "tech": [
+          "Typescript",
+          "React",
+          "Redux Toolkit",
+          "Styled components"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Rick & Morty",
+        "description": "This is a multipage website I used to practice my skills in technologies such as:",
+        "github_link": "https://github.com/nestor1760/Rick-Morty-Page",
+        "image_path": "/media/projects_media/rick&morty.png",
+        "preview_link": "https://rick-morty-page-sigma.vercel.app/",
+        "git_label": "View code",
+        "preview_label": "Live preview",
+        "tech": [
+          "Javascript",
+          "React",
+          "API",
+          "Bootstrap",
+          "Scss"
+        ]
+      }
+    ]
+  },
+  "contactForm": {
+    "title": "Contact form",
+    "name": "Full name",
+    "name_ph": "Enter your name",
+    "email": "Email address",
+    "email_ph": "Enter your email",
+    "message": "Your message",
+    "message_ph": "Enter your message",
+    "btn_label": "Send message",
+    "req_title": "Success!",
+    "req_text": "Message sent successfully!"
+  },
+  "footer": {
+    "title": "Privacy Policy",
+    "text": "Angelo Luca Fiore. All rights reserved."
+  },
+  "privacyPolicy": {
+    "btnLabel": "Home page",
+    "lastUpdate": "last update: ",
+    "title": "Nestor Website Privacy Policy",
+    "description": [
+      {
+        "id": 1,
+        "title": "1. Introduction",
+        "text": [
+          {
+            "id": 1,
+            "body": "1.1 Welcome to our website Nestor! We respect your privacy and are committed to protecting the personal information you provide through our site. This privacy policy explains how we collect, use, and protect your information."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "2. Information We Collect",
+        "text": [
+          {
+            "id": 1,
+            "body": "2.1 Personal Data: When you register on our site, subscribe to our newsletter, or fill out forms, we may collect your name, email address, phone number, and other contact information."
+          },
+          {
+            "id": 2,
+            "body": "2.2 Automatically Collected Information: We may collect information about your use of our site, including your IP address, browser type, browser language, access times, and referring URLs."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "3. Use of Information",
+        "text": [
+          {
+            "id": 1,
+            "body": "3.1 Providing and supporting our services."
+          },
+          {
+            "id": 2,
+            "body": "3.2 Personalizing your experience on our site."
+          },
+          {
+            "id": 3,
+            "body": "3.3 Providing you with information about our products and services."
+          },
+          {
+            "id": 4,
+            "body": "3.4 Improving our site based on your feedback."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "4. Protection of Your Information",
+        "text": [
+          {
+            "id": 1,
+            "body": "4.1 We employ all possible measures to protect your personal information to ensure its security and confidentiality."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "5. Disclosure of Information to Third Parties",
+        "text": [
+          {
+            "id": 1,
+            "body": "5.1 We do not sell, trade, or otherwise transfer your personal information to third parties without your consent, except trusted partners who assist us in managing our website or servicing you, provided that these parties agree to keep this information confidential."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "6. Cookies",
+        "text": [
+          {
+            "id": 1,
+            "body": "6.1 Our website may use cookies to improve site functionality and gather information about visitors. You can disable cookies in your browser settings."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "7. Links to Third-Party Websites",
+        "text": [
+          {
+            "id": 1,
+            "body": "7.1 Sometimes our website may contain links to third-party sites. These third-party sites have their own privacy policies, and we are not responsible for their content or activities."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "8. Changes to Privacy Policy",
+        "text": [
+          {
+            "id": 1,
+            "body": "8.1 We may update this privacy policy from time to time. All changes will be posted on this page."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "9. Contact Information",
+        "text": [
+          {
+            "id": 1,
+            "body": "email: romannesterchuk01@gmail.com"
+          },
+          {
+            "id": 2,
+            "body": "number: +48 886 191 807"
+          }
+        ]
+      }
+    ]
+  },
+  "cookies": {
+    "body": "We use cookies to enhance your browsing experience and analyze site traffic. By continuing to use our site, you agree to our use of cookies in accordance with our ",
+    "link_label": "Privacy policy",
+    "btn_accept": "Accept",
+    "btn_reject": "Reject"
+  }
+}

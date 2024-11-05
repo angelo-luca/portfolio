@@ -1,0 +1,232 @@
+{
+  "header": {
+    "home": "Glówna",
+    "about": "O mnie",
+    "skills": "Umiejętności",
+    "work": "Projekty",
+    "button": "Napisz do mnie"
+  },
+  "intro": {
+    "greeting": "Część, nazywam się",
+    "name": "Roman Nesterchuk",
+    "description": {
+      "firstPart": "Jestem młodym i ambitnym",
+      "span": "Frontend Deweloperem.",
+      "secondPart": "Moim celem jest tworzenie imponujących i innowacyjnych aplikacji webowych."
+    },
+    "button": "Napisz do mnie",
+    "downloadButton": "Pobrać CV",
+    "animatedItem": {
+      "firstItem": "Nowoczesny",
+      "secondItem": "Responsywny",
+      "thirdItem": "Interaktywny"
+    }
+  },
+  "aboutPart": {
+    "navItem": "O mnie",
+    "name": "Roman Nesterchuk",
+    "slogan": "Zamień marzenia w żywe arcydzieła.",
+    "description": "Nazywam się Roman, jestem młodym i ambitnym Frontend-deweloperem z wielką chęcią tworzenia nowoczesnych i innowacyjnych stron internetowych. Pomogę Ci stworzyć wymarzoną stronę internetową, wykorzystując najnowsze technologie. Z niecierpliwością czekam na możliwość współpracy, aby zrealizować Twoje pomysły."
+  },
+  "skillsPart": {
+    "navItem": "Umiejętności",
+    "title": {
+      "firstPart": "Umiejętności, narzędzia i technologie,",
+      "secondPart": "w których jestem naprawdę dobry:"
+    }
+  },
+  "projectsPart": {
+    "navItem": "Projekty",
+    "title": "Oto projekty, które zbudowałem do tej pory",
+    "projects": [
+      {
+        "id": 1,
+        "name": "Calyptus",
+        "description": "To jest wielostronicowa strona internetowa sklepu online, stworzona przy użyciu takich technologii jak:",
+        "github_link": "https://github.com/nestor1760/Calyptus-page",
+        "image_path": "/media/projects_media/calyptus.png",
+        "preview_link": "https://portfolio-project-three-gray.vercel.app/",
+        "git_label": "Zobacz kod",
+        "preview_label": "Podgląd na żywo",
+        "tech": [
+          "Javascript",
+          "React",
+          "css modules",
+          "Redux"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Horyzonty",
+        "description": "To jest strona docelowa dla agencji turystycznej stworzona przy użyciu technologii takich jak:",
+        "github_link": "https://github.com/nestor1760/Horyzonty-page",
+        "image_path": "/media/projects_media/horyzonty.png",
+        "preview_link": "https://horyzonty-page.vercel.app/",
+        "git_label": "Zobacz kod",
+        "preview_label": "Podgląd na żywo",
+        "tech": [
+          "Typescript",
+          "React",
+          "Redux Toolkit",
+          "Styled components"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Rick & Morty",
+        "description": "To jest wielostronicowa strona internetowa, którą wykorzystałem do ćwiczenia moich umiejętności takich jak:",
+        "github_link": "https://github.com/nestor1760/Rick-Morty-Page",
+        "image_path": "/media/projects_media/rick&morty.png",
+        "preview_link": "https://rick-morty-page-sigma.vercel.app/",
+        "git_label": "Zobacz kod",
+        "preview_label": "Podgląd na żywo",
+        "tech": [
+          "Javascript",
+          "React",
+          "API",
+          "Bootstrap",
+          "Scss"
+        ]
+      }
+    ]
+  },
+  "contactForm": {
+    "title": "Formularz kontaktowy",
+    "name": "Pełne imię i nazwisko",
+    "name_ph": "Wprowadź swoje pełne imię i nazwisko",
+    "email": "Adres e-mail",
+    "email_ph": "Wprowadź swój e-mail",
+    "message": "Twoja wiadomość",
+    "message_ph": "Wprowadź swoją wiadomość",
+    "btn_label": "Wyślij wiadomość",
+    "req_title": "Sukces!",
+    "req_text": "Wiadomość została pomyślnie wysłana!"
+  },
+  "footer": {
+    "title": "Polityka prywatności",
+    "text": "Roman Nesterchuk. Wszelkie prawa zastrzeżone."
+  },
+  "privacyPolicy": {
+    "btnLabel": "Głowna strona",
+    "lastUpdate": "ostatnia aktualizacja:",
+    "title": "Polityka prywatności strony internetowej Nestor",
+    "description": [
+      {
+        "id": 1,
+        "title": "1. Wprowadzenie",
+        "text": [
+          {
+            "id": 1,
+            "body": "1.1 Witamy na naszej stronie Nestor! Szanujemy Twoją prywatność i zobowiązujemy się chronić dane osobowe, które podajesz za pośrednictwem naszej strony. Niniejsza polityka prywatności wyjaśnia, jak zbieramy, wykorzystujemy i chronimy Twoje dane."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "2. Informacje, które zbieramy",
+        "text": [
+          {
+            "id": 1,
+            "body": "2.1 Dane osobowe: Kiedy rejestrujesz się na naszej stronie, zapisujesz się na nasz newsletter lub wypełniasz formularze, możemy zbierać Twoje imię, adres e-mail, numer telefonu i inne dane kontaktowe."
+          },
+          {
+            "id": 2,
+            "body": "2.2 Automatycznie zbierane informacje: Możemy zbierać informacje o Twoim korzystaniu z naszej strony, w tym Twój adres IP, typ przeglądarki, język przeglądarki, czas dostępu oraz adresy URL odsyłaczy."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "3. Wykorzystanie informacji",
+        "text": [
+          {
+            "id": 1,
+            "body": "3.1 Świadczenie i wspieranie naszych usług."
+          },
+          {
+            "id": 2,
+            "body": "3.2 Personalizacja Twoich doświadczeń na naszej stronie."
+          },
+          {
+            "id": 3,
+            "body": "3.3 Dostarczanie Ci informacji o naszych produktach i usługach."
+          },
+          {
+            "id": 4,
+            "body": "3.4 Udoskonalanie naszej strony na podstawie Twojej opinii."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "4. Ochrona Twoich informacji",
+        "text": [
+          {
+            "id": 1,
+            "body": "4.1 Stosujemy wszystkie możliwe środki, aby chronić Twoje dane osobowe i zapewnić ich bezpieczeństwo i poufność."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "5. Ujawnianie informacji osobom trzecim",
+        "text": [
+          {
+            "id": 1,
+            "body": "5.1 Nie sprzedajemy, nie wymieniamy ani nie przekazujemy Twoich danych osobowych osobom trzecim bez Twojej zgody, z wyjątkiem zaufanych partnerów, którzy pomagają nam w zarządzaniu naszą stroną internetową lub obsłudze Ciebie, pod warunkiem że te strony zobowiążą się zachować tę informację w tajemnicy."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "6. Pliki cookie",
+        "text": [
+          {
+            "id": 1,
+            "body": "6.1 Nasza witryna może używać plików cookie w celu poprawy funkcjonalności strony i zbierania informacji o odwiedzających. Możesz wyłączyć obsługę plików cookie w ustawieniach swojej przeglądarki."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "7. Linki do zewnętrznych zasobów",
+        "text": [
+          {
+            "id": 1,
+            "body": "7.1 Czasami na naszej stronie mogą znajdować się odnośniki do zewnętrznych stron. Te strony zewnętrzne mają własne polityki prywatności, za które nie ponosimy odpowiedzialności za ich treść ani działania."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "8. Zmiany w polityce prywatności",
+        "text": [
+          {
+            "id": 1,
+            "body": "8.1 Możemy aktualizować niniejszą politykę prywatności od czasu do czasu. Wszelkie zmiany będą publikowane na tej stronie."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "9. Informacje kontaktowe",
+        "text": [
+          {
+            "id": 1,
+            "body": "email: romannesterchuk01@gmail.com"
+          },
+          {
+            "id": 2,
+            "body": "telefon: +48 886 191 807"
+          }
+        ]
+      }
+    ]
+  },
+  "cookies": {
+    "body": "Używamy plików cookie w celu poprawy komfortu przeglądania naszej witryny oraz analizy ruchu. Kontynuując korzystanie z naszej witryny, zgadzasz się na używanie przez nas plików cookie zgodnie z naszą ",
+    "link_label": "Polityką prywatności",
+    "btn_accept": "Zaakceptuj",
+    "btn_reject": "Odrzuć"
+  }
+}
