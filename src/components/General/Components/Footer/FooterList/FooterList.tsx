@@ -26,7 +26,7 @@ const FooterList = () => {
       <MFooterLink darkTheme={switcher} variants={downAnimation} custom={1} href={github} target="_blank">
         <FaSquareGithub size={30} />
       </MFooterLink>
-      {/* <MFooterLink darkTheme={switcher} variants={downAnimation} custom={2} href={linkedin} target="_blank">
+      <MFooterLink darkTheme={switcher} variants={downAnimation} custom={2} href={linkedin} target="_blank">
         <FaLinkedin size={30} />
       </MFooterLink>
       <MFooterLink darkTheme={switcher} variants={downAnimation} custom={3} href={facebook} target="_blank">
@@ -37,7 +37,7 @@ const FooterList = () => {
       </MFooterLink>
       <MFooterBtn darkTheme={switcher} variants={downAnimation} custom={5} onClick={showModal}>
         <IoIosMail size={30} />
-      </MFooterBtn> */}
+      </MFooterBtn>
     </Container>
   )
 }

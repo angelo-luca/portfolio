@@ -30,9 +30,9 @@ const AboutPart = () => {
             <span>{t("aboutPart.name")}</span>
             <Container justify="space-around" margin="0" width="100%">
               <StyledLink href={github} target="blank"><FaGithubSquare size={30} /></StyledLink>
-              {/* <StyledLink href={linkedin} target="blank"><FaLinkedin size={30} /></StyledLink>
+              <StyledLink href={linkedin} target="blank"><FaLinkedin size={30} /></StyledLink>
               <StyledLink href={facebook} target="blank"><FaFacebookSquare size={30} /></StyledLink>
-              <StyledLink href={telegram} target="blank"><FaTelegram size={30} /></StyledLink> */}
+              <StyledLink href={telegram} target="blank"><FaTelegram size={30} /></StyledLink>
             </Container>
           </PersonalInfo>
         </MInfoContainer>
