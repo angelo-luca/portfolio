@@ -67,8 +67,6 @@ const Header: FC = () => {
                 onChange={handleLanguage}
                 options={[
                   { value: 'en' },
-                  { value: 'pl' },
-                  { value: 'ua' },
                 ]}
               />
               <Button hoverBorder={switcher ? 'none' : `2px solid ${blue_color}`} width="190px" height="44px" onClick={() => showModal(dispatch)}>{t("header.button")}</Button>
